@@ -1,8 +1,7 @@
-# Data analysis
-- Document here the project: TaxiFareModel
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+# TaxiFareModel
+- Description: Predicting taxifare in NYC and tracking models performance with ML flow
+- Data Source: Taxifare Kaggle dataset (500K rows) from the past 20 years
+- Baeline model: Linear Regression
 
 Please document the project the better you can.
 
